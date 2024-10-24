@@ -17,9 +17,9 @@
   <tr>
     <td style="padding: 10px; font-family: 'Comic Sans MS', cursive; color: #000;">
       <!-- Insert your introduction here -->
-      <p><b>Screen Name:</b>tesims</p>
-      <p><b>Status Message:</b> "Away from keyboard, but always in your heart!"</p>
-      <p>Hey there! I'm **Your Name**, and this is my retro-style AIM profile. I love coding, music, and chatting with friends online. Feel free to send me an IM!</p>
+      <p><b>Screen Name:</b> tesims</p>
+      <p><b>Status Message:</b> "Away from keyboard, but always building!"</p>
+      <p>Hey there! I'm Anna, and this is my profile. I love coding, music, and chatting with friends online. Feel free to send me an IM!</p>
     </td>
   </tr>
 </table>
