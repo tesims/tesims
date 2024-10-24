@@ -1,87 +1,71 @@
-<!-- Myspace-Themed GitHub Profile README -->
+<!-- AIM Profile Style README -->
 
-<!-- Background Image (Note: GitHub READMEs do not support background images, but we can simulate the style.) -->
+<!-- Header Section: AIM Logo and Greeting -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x200?text=Your+Custom+Banner" alt="Custom Banner">
+  <img src="https://via.placeholder.com/200x80?text=AIM+Logo" alt="AIM Logo">
 </p>
 
-<!-- Profile Picture and Name -->
-<p align="center">
-  <img src="https://via.placeholder.com/200x200?text=Your+Profile+Picture" alt="Profile Picture" style="border: 5px solid #000;">
-</p>
-
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #FF00FF;">
-  Your Name or Username
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive;">
+  Welcome to My Profile!
 </h1>
 
-<!-- Online Status -->
-<p align="center" style="font-family: 'Arial', sans-serif; color: #008000;">
-  Online Now!
-</p>
-
-<!-- Custom Divider -->
-<hr style="border: 2px dashed #FF00FF; width: 80%;">
+<!-- Divider -->
+<hr style="border: 1px dashed #FFCC00;">
 
 <!-- About Me Section -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive; color: #000;">
-  <h2>About Me</h2>
-  <p>Hey there! I'm **Your Name**, and welcome to my GitHub profile! I love coding, music, and connecting with new people.</p>
-</div>
+<table align="center" width="600" style="border: 2px solid #FFCC00; background-color: #FFF8DC;">
+  <tr>
+    <td style="padding: 10px; font-family: 'Comic Sans MS', cursive; color: #000;">
+      <!-- Insert your introduction here -->
+      <p><b>Screen Name:</b>tesims</p>
+      <p><b>Status Message:</b> "Away from keyboard, but always in your heart!"</p>
+      <p>Hey there! I'm **Your Name**, and this is my retro-style AIM profile. I love coding, music, and chatting with friends online. Feel free to send me an IM!</p>
+    </td>
+  </tr>
+</table>
+
+<!-- Divider -->
+<hr style="border: 1px dashed #FFCC00;">
 
 <!-- Interests Section -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive; color: #000;">
-  <h2>Interests</h2>
-  <ul style="list-style-type: none;">
-    <li>🎵 Music: Your favorite bands or artists</li>
-    <li>🎮 Gaming: Favorite games</li>
-    <li>💻 Coding: Languages and technologies you love</li>
-    <li>📺 TV Shows: Favorite shows</li>
-  </ul>
-</div>
+<table align="center" width="600" style="border: 2px solid #FFCC00; background-color: #FFF8DC;">
+  <tr>
+    <td style="padding: 10px; font-family: 'Comic Sans MS', cursive; color: #000;">
+      <b>Interests:</b>
+      <ul>
+        <li>💿 Listening to the latest hits on my portable CD player</li>
+        <li>🕹️ Playing retro games like "Snake" and "Minesweeper"</li>
+        <li>📺 Watching classic TV shows</li>
+        <li>💻 Surfing the web on AOL</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- Friends Section -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive; color: #000;">
-  <h2>Top Friends</h2>
-  <!-- Friend 1 -->
-  <a href="https://github.com/friend1">
-    <img src="https://via.placeholder.com/100x100?text=Friend+1" alt="Friend 1" style="border: 2px solid #000;">
-  </a>
-  <!-- Friend 2 -->
-  <a href="https://github.com/friend2">
-    <img src="https://via.placeholder.com/100x100?text=Friend+2" alt="Friend 2" style="border: 2px solid #000;">
-  </a>
-  <!-- Friend 3 -->
-  <a href="https://github.com/friend3">
-    <img src="https://via.placeholder.com/100x100?text=Friend+3" alt="Friend 3" style="border: 2px solid #000;">
-  </a>
-  <!-- Add more friends as needed -->
-</div>
-
-<!-- Comments Section -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive; color: #000; margin-top: 20px;">
-  <h2>Comments</h2>
-  <p>"You're awesome!" - Friend1</p>
-  <p>"Love your profile!" - Friend2</p>
-  <!-- Add more comments as desired -->
-</div>
+<!-- Divider -->
+<hr style="border: 1px dashed #FFCC00;">
 
 <!-- Contact Section -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive; color: #000;">
-  <h2>Contact Me</h2>
-  <p>📧 Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
-  <p>💬 Send me a message!</p>
-</div>
+<table align="center" width="600" style="border: 2px solid #FFCC00; background-color: #FFF8DC;">
+  <tr>
+    <td style="padding: 10px; font-family: 'Comic Sans MS', cursive; color: #000;">
+      <b>Contact Me:</b>
+      <p>📧 Email: <a href="mailto:16tesims@gmail.com">16tesims@gmail.com.com</a></p>
+      <p>🌐 Website: [www.meetinganna.com](http://www.meetinganna.com)</p>
+    </td>
+  </tr>
+</table>
 
-<!-- Custom Divider -->
-<hr style="border: 2px dashed #FF00FF; width: 80%;">
+<!-- Divider -->
+<hr style="border: 1px dashed #FFCC00;">
 
-<!-- Favorite Song Lyrics or Quote -->
-<div align="center" style="font-family: 'Courier New', monospace; color: #FF00FF;">
-  <p><i>"Your favorite song lyrics or a quote you love"</i></p>
-</div>
-
-<!-- Animated GIF or Glitter Text (Note: GIFs are supported, but be mindful of file size) -->
+<!-- Buddy Icon and Footer -->
 <p align="center">
-  <img src="https://via.placeholder.com/400x100?text=Glitter+Text+or+Animated+GIF" alt="Glitter Text or GIF">
+  <img src="https://via.placeholder.com/50x50?text=Buddy+Icon" alt="Buddy Icon">
+</p>
+
+<p align="center" style="font-family: 'Comic Sans MS', cursive; color: #000;">
+  <i>"Life is like a box of chocolates... you never know what you're gonna get!"</i><br>
+  ~ Your Favorite Quote
 </p>
 
