@@ -37,7 +37,6 @@
     <td style="padding: 10px; font-family: 'Comic Sans MS', cursive; color: #000;">
       <b>Contact Me:</b>
       <p>📧 Email: <a href="mailto:16tesims@gmail.com">16tesims@gmail.com.com</a></p>
-      <p>🌐 Website: [www.meetinganna.com](http://www.meetinganna.com)</p>
     </td>
   </tr>
 </table>
