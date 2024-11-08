@@ -46,11 +46,10 @@
 
 <!-- Buddy Icon and Footer -->
 <p align="center">
-  <img src="https://via.placeholder.com/50x50?text=Buddy+Icon" alt="Buddy Icon">
 </p>
 
 <p align="center" style="font-family: 'Comic Sans MS', cursive; color: #000;">
-  <i>"Life is like a box of chocolates... you never know what you're gonna get!"</i><br>
-  ~ Your Favorite Quote
+  <i>""</i><br>
+
 </p>
 
