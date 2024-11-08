@@ -2,11 +2,10 @@
 
 <!-- Header Section: AIM Logo and Greeting -->
 <p align="center">
-  <img src="https://via.placeholder.com/200x80?text=AIM+Logo" alt="AIM Logo">
 </p>
 
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive;">
-  Welcome to My Profile!
+  Teanna (Anna) Sims
 </h1>
 
 <!-- Divider -->
@@ -19,7 +18,7 @@
       <!-- Insert your introduction here -->
       <p><b>Screen Name:</b> tesims</p>
       <p><b>Status Message:</b> "Away from keyboard, but always building!"</p>
-      <p>Hey there! I'm Anna, and this is my profile. I love coding, music, and chatting with friends online. Feel free to send me an IM!</p>
+      <p>Hey there! I'm Anna, and this is my profile. I love coding, music, and figuring out how to develop impossible ideas into reality. Feel free to send me an IM!</p>
     </td>
   </tr>
 </table>
@@ -27,20 +26,7 @@
 <!-- Divider -->
 <hr style="border: 1px dashed #FFCC00;">
 
-<!-- Interests Section -->
-<table align="center" width="600" style="border: 2px solid #FFCC00; background-color: #FFF8DC;">
-  <tr>
-    <td style="padding: 10px; font-family: 'Comic Sans MS', cursive; color: #000;">
-      <b>Interests:</b>
-      <ul>
-        <li>💿 Listening to the latest hits on my portable CD player</li>
-        <li>🕹️ Playing retro games like "Snake" and "Minesweeper"</li>
-        <li>📺 Watching classic TV shows</li>
-        <li>💻 Surfing the web on AOL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
 
 <!-- Divider -->
 <hr style="border: 1px dashed #FFCC00;">
